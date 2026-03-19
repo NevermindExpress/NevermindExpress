@@ -1,37 +1,30 @@
-```
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
+I do software. I work on Windows NT and Win32, networking, low-level machine code, UEFI, and operating systems development. I primarily write in C/C++. There’s not much else you need to know about me.
 
-I, Oğuzhan Karacan, willingly changed my alias/username from
-"PEPSIMANTR" to "NevermindExpress". This is not a hack or
-anything else unintended and it was all done by me.
+# Works and Projects
 
-I needed some more badass name compared to the one I created
-at least 6 years ago when I was much younger before more
-people starts to know me. I may change it back if some
-unexpected consequenses happen or ones that already know me
-wants me to do so.
+*List is not exhaustive. Entries without links are either not mature enough to be shared or are archived.*
 
-last.fm uses a truncated version "NevermndExpress" because of
-15 character limit. any other is not valid unless I say so or
-listed under my GH profile.
+## Windows NT and Win32
+- [TimeDefuser](...): Security research on expiration date (timebomb) enforcement in the Windows NT kernel, with a PoC implementation that bypasses it.
+- [rundll64](.): Arbitrary DLL procedure calling utility inspired by `rundll32`, extended to support calling functions with arbitrary signatures.
 
-See y'all later with this new identity. 
------BEGIN PGP SIGNATURE-----
+## Networking
+- **Clara Server:** A high-performance networking server framework implementing native primitives of each platform (IOCP on Windows, kqueue on BSD, etc.). Designed to remove the learning curve of advanced networking and allow developers to focus on protocol implementation. *Work in progress.*
+- [Alyssa HTTP Server](...): An HTTP server implementing HTTP/2, chunked encoding, CGI, and more. One of my earliest projects; currently archived but may be revived as a Clara module.
+- *SimpleChat:* A simple chat application. My first real project (2022). Archived.
 
-iQIyBAEBCAAdFiEE4biFW4fVGVXshJPnlqatoujKXyAFAmezhkMACgkQlqatoujK
-XyA/HQ/4l8Qu3eiFYKszZino2z3jKaetxmb4BcfQn7JX3jxHkcUnyUHpeOcimkq0
-Nvs5IkLUL3xwoR4DFp+SkIZPFeBGER/tPainUUIIxwsVA0u1rYO8YsKOslFElNuZ
-SUZDBAaeCvqmMgpxHbFTPKsUO9ZQq1zyK60gC/BAVISgpo9PCjVHsueTLF5gR60t
-QC2M2daXXBJo0I8kaQU/7R6L5CfGMWFFI8RnXdTNx7qs3GIEUNiC/vYsp0FEiclH
-DgNGcGTMIdwwIsVkK36vwsKvITlMrLlh+vWjWBCyOQsW3XQPyBe9bB/PNZNly+bP
-Lgrxn8tEt7XkFjPRD1nUFegn2fLDcWOUSo+6gPOzwx4HnFx9Ejw7FLwYx/+MdoNE
-/pgVBbvMRKRl4gwb+bV9iboHqZh6wk2RegCxghKCGFDh9xoQEg+ZQX+iGd17vDXJ
-WWUTSZ2eP1+BSxIyIVO/P9FsWdPvL82MXitZqlihm2gjx6/DMKWfDXTp8aiAj8nQ
-a1EXOt8JRNuYjYYmtuLtcist2qa/QvkVZPWPdqkGeSGKz9Gl6T5l0A5FGNojMonn
-Bd/kJSbNAINv0ooBUesj0gVDwTiygGaINiL0jI+WpChe+6uvbBrAShmSOO/mzK0G
-gQoRISK673IEOGbvAf95PJ092WobyJ4jijD+330hjZ4Xo4Owwg==
-=0Xg7
------END PGP SIGNATURE-----
+## General User-space
+- **Ardipithecus:** A cross-platform lightweight GUI library for building applications entirely in code, supporting both anchored and manual layouts. *Work in progress.*
 
-```
+## UEFI and Operating Systems
+- **Stacey UEFI Operating Environment:** A UEFI-based operating environment (similar in concept to how Windows 9x sits on DOS) for basic computing and system recovery. Features cooperative multitasking and its own API/runtime. *Early work in progress.*
+- **Tracey Operating System:** A Windows NT-like (not a strict clone) operating system aiming for user-space compatibility with Windows. *Very early work in progress.*
+
+## Games
+- **Milestones 3000:** A card-based racing game. *Work in progress.*
+- [Campus Mayhem](...): A top-down shooter where a student fights terrorists in a school. Developed as a group class project.
+- [Star Realms](...): A card-based strategy game co-developed with a friend.
+
+<sub>Read the notice about my username change in 2025 [here](https://github.com/NevermindExpress/NevermindExpress/blob/master/Username-change.md)</sub>
+
+<sub>Comments or complains? [They go here](https://github.com/NevermindExpress/NevermindExpress/issues) or contact me from one of the comms addresses listed in left.</sub>
