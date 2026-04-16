@@ -22,7 +22,6 @@ I do software. I work on Windows NT and Win32, networking, low-level machine cod
 
 ## Games
 - **Milestones 3000:** A card-based racing game. *Work in progress.*
-- [Campus Mayhem](...): A top-down shooter where a student fights terrorists in a school. Developed as a group class project.
 - [Star Realms](...): A card-based strategy game co-developed with a friend.
 
 <sub>Read the notice about my username change in 2025 [here](https://github.com/NevermindExpress/NevermindExpress/blob/master/Username-change.md)</sub>
